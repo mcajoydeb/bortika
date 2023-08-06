@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'basic_details' => 'Basic Details',
+    'title' => 'Title',
+    'name' => 'Name',
+    'slug' => 'Slug',
+    'parent' => 'Parent',
+    'content' => 'Content',
+    'thumbnail' => 'Thumbnail',
+    'description' => 'Description',
+    'status' => 'Status',
+    'featured_image' => 'Featured Image',
+    'password' => 'Password',
+    'delete_thumbnail' => 'Delete Thumbnail?',
+    'seo_settings' => 'SEO Settings',
+    'meta_key' => 'Meta Key',
+    'meta_description' => 'Meta Description',
+    'media' => 'Media',
+    'attribute_values' => 'Attribute Values',
+    'color_code' => 'Color Code',
+    'error' => '* Sorry! One or more data provided is not correct.',
+    'errors' => 'Errors',
+    'attribute_values_placeholder' => 'Separate your options using , (Ex. Option1,Option2)',
+];

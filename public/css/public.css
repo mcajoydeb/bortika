@@ -1,0 +1,37 @@
+.is-invalid{border:1px solid red !important}
+
+.tag-checkbox input[type=checkbox] {
+    display: none;
+}
+
+.tag-checkbox label {
+    border: 1px solid #252525;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.tag-checkbox .cs-item {display: inline;}
+
+.tag-checkbox .cs-item.active label {
+    color: #fff;
+    background-color: #252525;
+}
+
+.list-style-none { list-style: none; }
+
+.color-box {
+    padding: 0px 10px;
+    border-radius: 50%;
+    position: relative;
+    right: -27px;
+    top: 1px;
+}
+
+.tag-checkbox.color-tags label {
+    padding-left: 30px;
+}
+
+.color-tags .cs-item {
+    margin-left: -20px !important;
+}
+

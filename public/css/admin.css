@@ -1,0 +1,39 @@
+.pagination { margin-bottom: 0px; }
+.thumbnail{ width: 100px;height: 100px; }
+.seo-preview-content h3 {
+    color: #1a0dab;
+    font-size: 18px;
+    font-family: arial,sans-serif;
+    font-weight: normal;
+}
+.seo-preview-content p.link {
+    color: #006621;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    font-weight: normal;
+    line-height: 5px;
+}
+.seo-preview-content p.description {
+    color: #6a6a6a;
+    font-size: 12px;
+    font-family: arial,sans-serif;
+    font-weight: normal;
+    line-height: 15px;
+}
+.media-item {
+    text-align: center;
+    cursor: pointer;
+    padding-top: 10px;
+}
+.media-item.selected { background: rgba(0,0,0,0.3) }
+.list-style-none { list-style: none; }
+.responsive { max-width: 100%; overflow-x: auto; }
+.cursor-pointer{ cursor: pointer; }
+.hover-bottom-right { position: fixed; right: 5rem; bottom: 5rem; z-index: 99999; }
+.fixed-page-center { position: fixed; top: 0; left: 0; background: #fff; z-index: 9999; height: 100vh; width: 100%;
+    display: flex; justify-content: center; align-items: center; }
+.fixed-page-center img { width: 10rem; z-index: 999999; }
+.tab-content .tab-pane {padding-top: 3rem;}
+.category-card-content{max-height: 300px;overflow-y: auto;}
+.select2{ width: 100% !important; }
+

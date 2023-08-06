@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'title' => 'Title',
+    'slug' => 'Slug',
+    'parent' => 'Parent',
+    'content' => 'Content',
+    'status' => 'Status',
+    'featured_image' => 'Featured Image',
+    'post_seo' => 'Post SEO',
+    'google_preview' => 'Google Search Preview',
+    'allowed_max_char' => 'Allowed Maximum Characters',
+    'max_char_help_text' => 'Maximum number of characters that will appear at frontend. (Leave blank for full posts)',
+    'allow_comments' => 'Allow Comments',
+    'allow_comments_label' => 'Allow comments at frontend of this post',
+    'title_placeholder' => 'Example - Xiaomi Mi Max Review',
+    'slug_placeholder' => 'Example - xiaomi-mi-max-review',
+    'title_example' => 'Page Title',
+    'url_example' => 'Slug, url format (Ex: page-title)',
+    'description_example' => 'Your meta tag description',
+    'keywords_example' => 'Meta keywords (Ex: travel, mobile etc.)',
+    'delete_featured_image' => 'Delete Featured Image?',
+    'password' => 'Password',
+    'scheduled_start' => 'Start Time',
+    'scheduled_end' => 'End Time',
+];
